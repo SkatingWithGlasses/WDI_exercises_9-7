@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669644961 source:c:\users\macie\documents\github\wdi_exercises_9-7\wdi_exercises_9-7\main.c
+	<stdio.h>
+	<stdlib.h>
+
